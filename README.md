@@ -17,11 +17,4 @@ I am currently working on something cool. :octocat:
 </div>
 
 ### Pinned Repos
-> Repositories developed by :coffee:
-
-<div align="center">
-  <a href="https://github.com/riflowth/SkinSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=riflowth&repo=skinsystem&theme=algolia" /></a>
-  <a href="https://github.com/riflowth/SkinFile-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=riflowth&repo=SkinFile-Generator&theme=algolia" /></a>
-  <a href="https://github.com/CPE34-A2/EatMod"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CPE34-A2&repo=EatMod&theme=algolia&show_owner=true" /></a>
-  <a href="https://github.com/riflowth/OldMenecia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=riflowth&repo=OldMenecia&theme=algolia" /></a>
-</div>
+> Repositories developed by :coffee: Check it out below...

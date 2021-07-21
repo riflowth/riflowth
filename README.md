@@ -1,4 +1,4 @@
-## 🙏 Hi there, I am Krid Heprakhone
+## 🙏 Hi there, I am Krid Heprakhone <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=riflowth" alt="visitor" />
 
 ### About me
 I'm currently a Computer Engineering undergraduate at **King Mongkut's University of Technology Thonburi (KMUTT).**  

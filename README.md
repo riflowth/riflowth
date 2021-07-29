@@ -121,6 +121,3 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 </details>
 
 ---
-
-#### 📌 Pinned Repos
-> Repositories developed by :coffee: Check it out below...

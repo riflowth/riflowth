@@ -12,29 +12,24 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 
 ### 📊 GitHub Stats
 <div align="center">
-  <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riflowth&show_icons=true&theme=dark&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowth&layout=compact&theme=dark&langs_count=10" />
-  </div>
-  <div align="center">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=riflowth&theme=dark&hide_border=false&border=FFFFFF" />
-  </div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riflowth&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowth&layout=compact&theme=dark&langs_count=10" />
 </div>
 
 ---
 
 ### 🛠 Tools I Use
-<ul>
-  <li><b>Web Development</b></li>
+<details>
+  <summary><b>Web Development</b></summary>
   <ul>
-  <li>
-    I prefer <b>TailwindCSS</b> and <b>Bootstrap</b> for my ui. web technology mostly uses <b>Next.js</b>, For all of these, I use <b>JavaScript</b> and <b>CSS3</b>. The <b>Database</b>, I mainly select <b>MongoDB</b> and <b>MySQL</b>, up to my web requirement and my mood at that time. <i>lmao!</i>
-  </li>
-  <li>
-    Before I found true love like <b>Next.js</b>. My web technology uses <b>NodeJS</b> with <b>expressJS</b> and <b>template engine</b> to provide my website. Back in the past, I caught up with <b>PHP</b>, lol.
-  </li>
-  </ul>
-</ul>
+    <li>
+      I prefer <b>TailwindCSS</b> and <b>Bootstrap</b> for my ui. web technology mostly uses <b>Next.js</b>, For all of these, I use <b>JavaScript</b> and <b>CSS3</b>. The <b>Database</b>, I mainly select <b>MongoDB</b> and <b>MySQL</b>, up to my web requirement and my mood at that time. <i>lmao!</i>
+    </li>
+    <li>
+      Before I found true love like <b>Next.js</b>. My web technology uses <b>NodeJS</b> with <b>expressJS</b> and <b>template engine</b> to provide my website. Back in the past, I caught up with <b>PHP</b>, lol.
+    </li>
+    </ul>
+</details>
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +42,7 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <code>Languages</code> &nbsp;
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" />
@@ -58,19 +54,18 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 </div>
 
 <br />
-      
-<ul>
-  <li><b>General Development</b></li>
+
+<details>
+  <summary><b>General Development</b></summary>
   <ul>
     <li>
       I love OOP so I stuck with <b>Java</b> ☕. On my game development, I use <b>Java</b> and <b>LUA</b>. Sometimes I write <b>C</b> and <b>Python</b>.
     </li>
   </ul>
-</ul>
+</details>
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Languages</code> &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />
@@ -79,26 +74,20 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 
 <br />
     
-<ul>
+<details>
   <summary><b>Development Tools</b></summary>
   <ul>
     <li>
       I use <b>Visual Studio Code</b> in my general development like <i>JavaScript, Lua, C, Python</i>. I do <i>Java</i> programming on <b>IntelliJ IDEA</b>. In my university when working with Robot I prefer <b>Arduino IDE</b>. My version control system is <b>git</b>. I use <b>Docker</b> for building, shipping, and running distributed applications. the last is <b>GitLab</b> for CI/CD on my process.
     </li>
   </ul>
-</ul>
+</details>
 
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Editor/IDE</code> &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Version Control System</code> &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Development Environment</code> &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" />
 </div>

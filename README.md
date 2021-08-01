@@ -33,22 +33,17 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Tools</code> &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" />
   <img height="25" style="text-color: white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" />
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Languages</code> &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Database</code> &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" />
 </div>

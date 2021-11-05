@@ -92,21 +92,24 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 <details>
   <summary><b>💻 my dev stuffs, <i>(click to expand)</i></b></summary>
   <ul>
-    <li><b>MacBook Pro (16-inch, 2019)</b>
+    <li>
+      <b>MacBook Pro (16-inch, 2021)</b>
       <ul>
-        <li>CPU: Intel Core i9</li>
+        <li>CPU: M1 Pro 10-core</li>
+        <li>GPU: M1 Pro 16-core</li>
         <li>Memory: 16 GB</li>
-        <li>GPU: AMD Radeon Pro 5500, Intel UHD Graphics 630</li>
       </ul>
     </li>
-    <li><b>Custom PC</b>
+    <li>
+      <b>Custom PC</b>
       <ul>
         <li>CPU: AMD Ryzen 5 2600</li>
         <li>Memory: 16 GB</li>
         <li>GPU: NVIDIA GeForce GTX 1660 SUPER</li>
       </ul>
     </li>
-    <li><b>Monitors</b>
+    <li>
+      <b>Monitors</b>
       <ul>
         <li>DELL ALIENWARE AW3420DW</li>
         <li>DELL U2720Q</li>

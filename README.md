@@ -111,7 +111,7 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
     <li>
       <b>Monitors</b>
       <ul>
-        <li>DELL ALIENWARE AW3420DW</li>
+        <li>DELL ALIENWARE AW3821DW</li>
         <li>DELL U2720Q</li>
       </ul>
     </li>

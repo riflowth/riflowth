@@ -1,121 +1,21 @@
-## 🙏 Hi there, I am Krid Heprakhone <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=riflowth" alt="visitor" />
+<img a="Hi!" align="right" height="200" width="200" alt="riflowth's avatar" src="https://raw.githubusercontent.com/riflowth/riflowth/master/img/avatar.png"/>
 
-### About me
-I'm currently a Computer Engineering undergraduate at **King Mongkut's University of Technology Thonburi (KMUTT).**  
-I'm working as a Fullstack Developer & Software Developer at **[Vectier](https://github.com/Vectier)**, an informal organization of our teammate.
+# 🙏 Krid Heprakhone — @riflowth
+
+Hi, I'm Krid — a computer engineering student passionate about self-taught software development and a part-time photographer especially on film. I founded a geek crew named **[Vectier](https://github.com/Vectier)** *(a starter tech organization)*. I'm currently learning a whole-world computer technology with a ☕
+
+## 💬 Talking about Personal Stuffs
+
+- 🏆 **Proficient in:** Full Stack Web Development
+  - Next.js, React, Node.js, Tailwind CSS, Bootstrap
+  - non-RDBMS (MongoDB, Redis), RDBMS (MySQL, MariaDB)
+- 👍 **Experienced with:** Git, Docker, MacOS, Linux
+- 👀 **Interest in:** Cloud Computing, System Infrastructure
+
+## 🌟 Experiences
+- **Head Developer and Software Maintenance** on **[Pre-Freshy CPE 2021](https://github.com/CPE34-KMUTT/pre-freshy-cpe-2021)**, organized by [KMUTT](https://www.kmutt.ac.th/)
+- **Developer Assistant and DevOps engineer** on **Comcamp 33**, organized by [KMUTT](https://www.kmutt.ac.th/)
 
 ```
 I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 ```
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riflowth&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowth&layout=compact&theme=dark&langs_count=10" />
-</div>
-
----
-
-### 🛠 Tools I Use
-<details>
-  <summary><b>Web Development</b></summary>
-  <ul>
-    <li>
-      I prefer <b>TailwindCSS</b> and <b>Bootstrap</b> for my ui. web technology mostly uses <b>Next.js</b>, For all of these, I use <b>JavaScript</b> and <b>CSS3</b>. The <b>Database</b>, I mainly select <b>MongoDB</b> and <b>MySQL</b>, up to my web requirement and my mood at that time. <i>lmao!</i>
-    </li>
-    <li>
-      Before I found true love like <b>Next.js</b>. My web technology uses <b>NodeJS</b> with <b>expressJS</b> and <b>template engine</b> to provide my website. Back in the past, I caught up with <b>PHP</b>, lol.
-    </li>
-    </ul>
-</details>
-
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" />
-  <img height="25" style="text-color: white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" />
-</div>
-
-<br />
-
-<details>
-  <summary><b>General Development</b></summary>
-  <ul>
-    <li>
-      I love OOP so I stuck with <b>Java</b> ☕. On my game development, I use <b>Java</b> and <b>LUA</b>. Sometimes I write <b>C</b> and <b>Python</b>.
-    </li>
-  </ul>
-</details>
-
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
-</div>
-
-<br />
-    
-<details>
-  <summary><b>Development Tools</b></summary>
-  <ul>
-    <li>
-      I use <b>Visual Studio Code</b> in my general development like <i>JavaScript, Lua, C, Python</i>. I do <i>Java</i> programming on <b>IntelliJ IDEA</b>. In my university when working with Robot I prefer <b>Arduino IDE</b>. My version control system is <b>git</b>. I use <b>Docker</b> for building, shipping, and running distributed applications. the last is <b>GitLab</b> for CI/CD on my process.
-    </li>
-  </ul>
-</details>
-
-<div align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" />
-</div>
-
-<br />
-
-<details>
-  <summary><b>💻 my dev stuffs, <i>(click to expand)</i></b></summary>
-  <ul>
-    <li>
-      <b>MacBook Pro (16-inch, 2021)</b>
-      <ul>
-        <li>CPU: M1 Pro 10-core</li>
-        <li>GPU: M1 Pro 16-core</li>
-        <li>Memory: 16 GB</li>
-      </ul>
-    </li>
-    <li>
-      <b>Custom PC</b>
-      <ul>
-        <li>CPU: AMD Ryzen 5 2600</li>
-        <li>Memory: 16 GB</li>
-        <li>GPU: NVIDIA GeForce GTX 1660 SUPER</li>
-      </ul>
-    </li>
-    <li>
-      <b>Monitors</b>
-      <ul>
-        <li>DELL ALIENWARE AW3821DW</li>
-        <li>DELL U2720Q</li>
-      </ul>
-    </li>
-  </ul>
-</details>
-
----

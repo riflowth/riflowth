@@ -14,7 +14,7 @@ Hi, I'm Krid — a computer engineering student passionate about self-taught sof
 
 ## 🌟 Experiences
 - **Head Developer and Software Maintenance** on **[Pre-Freshy CPE 2021](https://github.com/CPE34-KMUTT/pre-freshy-cpe-2021)**, organized by [KMUTT](https://www.kmutt.ac.th/)
-- **Developer Assistant and DevOps engineer** on **Comcamp 33**, organized by [KMUTT](https://www.kmutt.ac.th/)
+- **Developer Consultant and DevOps engineer** on **[Comcamp 33](https://github.com/CPE35-KMUTT/comcamp33)**, organized by [KMUTT](https://www.kmutt.ac.th/)
 
 ```
 I'm interested in CODING. I believe CODING can change the WORLD. 🌎

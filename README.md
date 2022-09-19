@@ -2,13 +2,13 @@
 
 # 🙏 Krid Heprakhone — @riflowth
 
-Hi, I'm Krid — a computer engineering student with technology passionated, love in self-taught software development and cutting-edge tech. I founded a geek crew named **[Vectier](https://github.com/Vectier)** *(a starter tech organization)*. I'm currently learning a whole-world computer technology with a ☕
+Hi, I'm Krid — a computer engineering student with technology passionated, love in software development and cutting-edge tech. I founded a geek crew named **[Vectier](https://github.com/Vectier)** *(a starter tech organization)*. I'm currently learning a whole-world computer technology with a ☕
 
 ## 💬 Talking about Personal Stuffs
 
 - 🏆 **Proficient in:** Full Stack Web Development
   - Next.js, React, Svelte, Node.js, Tailwind CSS, Bootstrap
-  - non-RDBMS (MongoDB, Redis), RDBMS (MySQL, MariaDB)
+  - SQL (MongoDB, Redis), NO-SQL (MySQL, MariaDB, PostgreSQL)
 - 👍 **Experienced with:** TypeScript, JavaScript, Java, Git, Docker, MacOS, Linux
 - 👀 **Interest in:** Cloud Computing, System Infrastructure
 
@@ -16,7 +16,7 @@ Hi, I'm Krid — a computer engineering student with technology passionated, lov
 
 ## 🌟 Experiences
 - **Software Engineer Intern (Full-Stack)** at **[The Existing Company](https://www.existing.co/)**
-- **Head Developer and Software Maintenance** at **[Pre-Freshy CPE 2021](https://github.com/CPE34-KMUTT/pre-freshy-cpe-2021)**, organized by [KMUTT](https://www.kmutt.ac.th/)
+- **Lead Developer and Software Maintainer** at **[Pre-Freshy CPE 2021](https://github.com/CPE34-KMUTT/pre-freshy-cpe-2021)**, organized by [KMUTT](https://www.kmutt.ac.th/)
 - **Developer Consultant and DevOps engineer** at **[Comcamp 33](https://github.com/CPE35-KMUTT/comcamp33)**, organized by [KMUTT](https://www.kmutt.ac.th/)
 
 <a href="https://www.linkedin.com/in/krid-heprakhone/">

@@ -15,6 +15,7 @@ Hi, I'm Krid — a computer engineering student with technology passionated, lov
 <img height="25" src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,svelte,tailwindcss,bootstrap,nodejs,mysql,mongodb,redis,git,docker,linux" />
 
 ## 🌟 Experiences
+- **Tech Lead and DevOps engineer** at **[Bangmod Hackathon 2023](https://www.bangmodhackathon.com/)**, organized by [KMUTT](https://www.kmutt.ac.th/)
 - **Software Engineer Intern (Full-Stack)** at **[The Existing Company](https://www.existing.co/)**
 - **Lead Developer and Software Maintainer** at **[Pre-Freshy CPE 2021](https://github.com/CPE34-KMUTT/pre-freshy-cpe-2021)**, organized by [KMUTT](https://www.kmutt.ac.th/)
 - **Developer Consultant and DevOps engineer** at **[Comcamp 33](https://github.com/CPE35-KMUTT/comcamp33)**, organized by [KMUTT](https://www.kmutt.ac.th/)

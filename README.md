@@ -21,8 +21,12 @@ Hi, I'm Krid — a computer engineering student with technology passionated, lov
 - **Developer Consultant and DevOps engineer** at **[Comcamp 33](https://github.com/CPE35-KMUTT/comcamp33)**, organized by [KMUTT](https://www.kmutt.ac.th/)
 
 <a href="https://www.linkedin.com/in/krid-heprakhone/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
 </a>
+<a href="https://riflowth.github.io/riflowth/resume.pdf">
+  <img src="https://img.shields.io/badge/resume-326ce5?style=for-the-badge&logoColor=white" alt="" />
+</a>
+
 <br /><br />
 
 ```

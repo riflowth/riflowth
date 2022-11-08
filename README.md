@@ -8,7 +8,7 @@ Hi, I'm Krid — a computer engineering student with technology passionated, lov
 
 - 🏆 **Proficient in:** Full Stack Web Development
   - Next.js, React, Svelte, Node.js, Tailwind CSS, Bootstrap
-  - SQL (MongoDB, Redis), NO-SQL (MySQL, MariaDB, PostgreSQL)
+  - SQL (MySQL, MariaDB, PostgreSQL), NO-SQL (MongoDB, Redis)
 - 👍 **Experienced with:** TypeScript, JavaScript, Java, Prometheus, Grafana, Git, Docker, MacOS, Linux
 - 👀 **Interest in:** Cloud Computing, System Infrastructure
 

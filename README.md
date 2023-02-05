@@ -12,7 +12,7 @@ Hi, I'm Krid — a computer engineering student with technology passionated, lov
 - 👍 **Experienced with:** TypeScript, JavaScript, Java, Prometheus, Grafana, Git, Docker, MacOS, Linux
 - 👀 **Interest in:** Cloud Computing, System Infrastructure
 
-<img height="25" src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,svelte,tailwindcss,bootstrap,nodejs,mysql,mongodb,redis,git,docker,linux" />
+<img height="28" src="https://skillicons.dev/icons?i=ts,js,golang,java,nextjs,react,svelte,tailwindcss,bootstrap,nodejs,mysql,mongodb,redis,git,docker,linux&perline=16" />
 
 ## 🌟 Experiences
 - **Tech Lead and DevOps engineer** at **[Bangmod Hackathon 2023](https://github.com/cpe-kmutt-student/bangmod-hackathon-2023)**, organized by [KMUTT](https://www.kmutt.ac.th/)

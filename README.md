@@ -14,11 +14,9 @@ Hi, I'm Krid — a computer engineering student with technology passionated, lov
 
 <img height="28" src="https://skillicons.dev/icons?i=ts,js,golang,java,nextjs,react,svelte,tailwindcss,bootstrap,nodejs,mysql,mongodb,redis,git,docker,linux&perline=16" />
 
-## 🌟 Experiences
-- **Tech Lead and DevOps engineer** at **[Bangmod Hackathon 2023](https://github.com/cpe-kmutt-student/bangmod-hackathon-2023)**, organized by [KMUTT](https://www.kmutt.ac.th/)
-- **Software Engineer Intern (Full-Stack)** at **[The Existing Company](https://www.existing.co/)**
-- **Lead Developer and Software Maintainer** at **[Pre-Freshy CPE 2021](https://github.com/CPE34-KMUTT/pre-freshy-cpe-2021)**, organized by [KMUTT](https://www.kmutt.ac.th/)
-- **Developer Consultant and DevOps engineer** at **[Comcamp 33](https://github.com/CPE35-KMUTT/comcamp33)**, organized by [KMUTT](https://www.kmutt.ac.th/)
+```
+I'm interested in CODING. I believe CODING can change the WORLD. 🌎
+```
 
 <a href="https://www.linkedin.com/in/krid-heprakhone/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
@@ -26,9 +24,3 @@ Hi, I'm Krid — a computer engineering student with technology passionated, lov
 <a href="https://riflowth.github.io/riflowth/resume.pdf">
   <img src="https://img.shields.io/badge/resume-326ce5?style=for-the-badge&logoColor=white" alt="" />
 </a>
-
-<br />
-
-```
-I'm interested in CODING. I believe CODING can change the WORLD. 🌎
-```
